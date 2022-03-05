@@ -1,4 +1,4 @@
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】<br>8章【FizzBuzzプログラムを作ってみよう】</br>
+# DMM WEBCAMPコンテンツ【Rubyを学ぼう】<br>8章【FizzBuzzプログラムを作ってみよう】</br>
 DMM WEBCAMPの学習コンテンツ FizzBuzzプログラムを作ってみようの学習内容です。
 <br>メソッドを定義する
 :引数とは
